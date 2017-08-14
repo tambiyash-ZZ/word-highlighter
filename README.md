@@ -3,4 +3,4 @@ This is a crude project created using ReactJS (ES-6) components. Just give name 
 
 Just Clone/Download it. Run "npm install" to install all the dependencies. Then run "npm start" to run the application.
 
-![word highlighter](/Syntax_Highlighter_1.jpg?raw=true "Word Highlighter")
+![word highlighter](./Syntax_Highlighter_1.jpg?raw=true "Word Highlighter")
